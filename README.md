@@ -27,3 +27,6 @@ Podés instalar todas las dependencias necesarias con:
 
 ```bash
 pip install numpy pandas matplotlib scipy statsmodels scikit-learn
+
+
+
